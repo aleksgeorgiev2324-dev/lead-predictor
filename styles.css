@@ -609,3 +609,9 @@ input[type="range"]::-moz-range-thumb {
     padding: 20px 16px 22px;
   }
 }
+
+@media (max-width: 420px) {
+  .brand h1 {
+    font-size: 1.25rem;
+  }
+}
